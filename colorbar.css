@@ -1,0 +1,17 @@
+.box { 
+	min-height: 300px;
+	width: 50%;
+}
+			
+.light_green {
+	  background-color: #9ACD32;
+}
+
+.green{
+  background-color: #16A950;
+}
+
+.yellow {
+  background-color: #FEEB0B;
+}
+
