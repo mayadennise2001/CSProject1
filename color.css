@@ -1,0 +1,51 @@
+body {
+	width: 100vw;
+	height: 100vh ;
+}
+.light_yellow {
+	
+	background-color: lightyellow;
+	width: 45vw;
+	height: 50vh ;
+	float: left ;
+	display: block ;
+		
+	
+}
+
+.green {
+	background-color: green ;
+	width:55vw ;
+	height: 50vh ; 
+	float: center ; 
+	display: inline-block ;
+	
+}
+
+.pink {
+	background-color: pink ;
+	width: 45vw ;
+	height: 80vh ; 
+	float: left ;
+	display: inline-block ; 
+}
+
+.light_green{
+	background-color: lightgreen ;
+	width: 55vw ;
+	height: 30vh ;
+	float: left ;
+	display: inline-block;
+}
+.light_blue{
+	background-color: lightblue;
+	width: 55vw ;
+	height: 50vh ;
+	float: right ;
+	display: inline-block;
+}
+div{
+	
+	text-align: center;	
+	
+}
